@@ -1,0 +1,15 @@
+#headTitle {
+	text-align: center;
+	font-size: 2rem;
+	font-weight: 500;
+}
+
+.main {
+	border-radius: 1em;
+	border: 0.01em solid #383838;
+	padding: 2em;
+	margin-top: 5em;
+	margin-left: 10em;
+	margin-right: 10em;
+	background: #f0f4f4;
+}
